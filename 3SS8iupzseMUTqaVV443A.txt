@@ -2,7 +2,7 @@
     "blog": [
         {
             "id": 1,
-            "title": "write a sum program in php",
+            "title": "First Blog",
             "slug": "write_a_program1",
             "image": "https://i.picsum.photos/id/6/5000/3333.jpg?hmac=pq9FRpg2xkAQ7J9JTrBtyFcp9-qvlu8ycAi7bUHlL7I",
             "post": "<p>This is first <strong>blog</strong></p>"
